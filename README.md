@@ -1,4 +1,4 @@
-# vim-plugin-metadata
+# vim-plugin-metadata 
 
 Parse and analyze your vim plugins, from Rust or Python!
 
